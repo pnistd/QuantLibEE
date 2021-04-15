@@ -23,10 +23,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="eeaddin.def">
+    <None Include="quantlibee.def">
       <Filter>Source Files</Filter>
     </None>
-    <None Include="ReadMe.htm" />
+    <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="quantlibee.cpp">

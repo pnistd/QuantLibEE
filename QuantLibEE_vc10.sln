@@ -1,8 +1,8 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuantLibEE", "QuantLibEE_vc10.vcxproj", "{3CADB612-EA36-4EC7-838D-BF493C409905}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuantLib", "c:\dev\quantlib\QuantLib\QuantLib_vc10.vcxproj", "{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,28 +40,11 @@ Global
 		{3CADB612-EA36-4EC7-838D-BF493C409905}.Release|Win32.Build.0 = Release|Win32
 		{3CADB612-EA36-4EC7-838D-BF493C409905}.Release|x64.ActiveCfg = Release|x64
 		{3CADB612-EA36-4EC7-838D-BF493C409905}.Release|x64.Build.0 = Release|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug (static runtime)|Itanium.ActiveCfg = Debug (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug (static runtime)|Win32.ActiveCfg = Debug (static runtime)|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug (static runtime)|Win32.Build.0 = Debug (static runtime)|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug (static runtime)|x64.ActiveCfg = Debug (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug (static runtime)|x64.Build.0 = Debug (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug|Itanium.ActiveCfg = Debug|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug|Win32.ActiveCfg = Debug|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug|Win32.Build.0 = Debug|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug|x64.ActiveCfg = Debug|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Debug|x64.Build.0 = Debug|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release (static runtime)|Itanium.ActiveCfg = Release (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release (static runtime)|Win32.ActiveCfg = Release (static runtime)|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release (static runtime)|Win32.Build.0 = Release (static runtime)|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release (static runtime)|x64.ActiveCfg = Release (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release (static runtime)|x64.Build.0 = Release (static runtime)|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release|Itanium.ActiveCfg = Release|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release|Win32.ActiveCfg = Release|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release|Win32.Build.0 = Release|Win32
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release|x64.ActiveCfg = Release|x64
-		{AD0A27DA-91DA-46A2-ACBD-296C419ED3AA}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7317A0F-393A-43AC-8C40-7E0F85A27828}
 	EndGlobalSection
 EndGlobal
